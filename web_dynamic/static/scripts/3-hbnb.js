@@ -43,6 +43,6 @@ $(function () {
                 </article>`
       ));
     },
-    datatype: 'json'
+    dataType: 'json'
   });
 });
